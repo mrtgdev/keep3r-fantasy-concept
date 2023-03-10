@@ -9,9 +9,11 @@
   },
   "dependencies": {
     "@motionone/utils": "^10.15.1",
+    "@tabler/icons": "^2.9.0",
     "framer-motion": "^10.0.2",
     "preact": "^10.13.0",
     "preact-router": "^4.1.0",
+    "react-animated-cursor": "^2.5.2",
     "remixicon": "^2.5.0"
   },
   "devDependencies": {

@@ -39,7 +39,7 @@ module.exports = {
 		},
 		extend: {
 			colors: {
-				'light-green':'#9FDF88',
+				'primary':'#00E592',
 				'mindaro': '#CDFF78',
 				'cultured': '#f0eee8',
 				'bigstone': '#080808',		
