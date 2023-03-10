@@ -27,6 +27,6 @@
     },
     "types": ["vite/client", "vite-plugin-pwa/client"]
   },
-  "include": ["src", "src/hooks/barba.min.js"],
+  "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
