@@ -12,7 +12,7 @@ interface LinkProfileProps {
 
 export default function LinkProfile({ path, name, key }: LinkProfileProps) {
     return (
-        <Link activeClassName='text-light-green font-bold' href={path}>
+        <Link activeClassName='text-primary font-bold' href={path}>
             <img src={ avatar } class='flex w-8 h-8 justify-center items-center rounded z-10' />
         </Link>
     )

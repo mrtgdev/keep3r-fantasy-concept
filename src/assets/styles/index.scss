@@ -36,6 +36,13 @@
 	color: var(--color-text);
 }
 
+/** Cursor Style */
+html, body {
+	&, * {
+		cursor: none
+	}
+}
+
 body {
 	min-height: 100vh;
 	margin: 0;
